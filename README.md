@@ -11,15 +11,6 @@
 
 > 4. Android安装[Shadowsocks](https://github.com/shadowsocks/shadowsocks-android)和[ShadowsocksGostPlugin](https://github.com/xausky/ShadowsocksGostPlugin)。
 
-[下载](https://github.com/xiaokaixuan/gost-heroku/releases/tag/v2.11.1)
+[下载](https://github.com/QAWSDUI3/wwwsz/releases/tag/v2.11.1)
 
-### 附加
 
-> 1. 一键部署 Gost(ss+mws) 到 [KubeSail](https://kubesail.com/template/kaixuan1115/gost-heroku/)。
-
-### 参考 
-*https://github.com/ginuerzh/gost*
-
-*https://github.com/gfwlist/gfwlist*
-
-*https://github.com/xausky/ShadowsocksGostPlugin*
